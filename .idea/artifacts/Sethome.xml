@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sethome">
+    <output-path>$USER_HOME$/Desktop/測試服/plugins</output-path>
+    <root id="archive" name="Sethome.jar">
+      <element id="module-output" name="Sethome" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
